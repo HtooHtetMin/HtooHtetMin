@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Htoo Htet Min</a></h1>
-<h3 align="center">A Cloud Engineer &#127470;&#127475</h3>
+<h3 align="center">A Cloud Engineer &#x1f1f2;&#x1f1f2</h3>
 
 <div>
   <div align=center>
@@ -17,7 +17,7 @@ Htoo Htet Min</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </a>
 <br>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Myanmar Payment Solution Services</a>
 
