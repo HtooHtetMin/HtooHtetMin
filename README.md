@@ -48,9 +48,11 @@ Htoo Htet Min</a></h1>
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+	 <a style="margin-left: 10px;" target="_blank" href="[https://instagram.com/100rabhch](https://www.facebook.com/htoohtet.mineain.5?mibextid=JRoKGi)">
+			<img src="[https://img.icons8.com/doodle/40/000000/instagram-new--v2.png](https://img.icons8.com/doodle/40/000000/facebook-new--v2.png)"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://x.com/htoohtetmineai1?s=21&t=VaSruJvtl8wO73lCVrnHlA">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<a style="margin-left: 10px;" target="_blank" href="http://www.youtube.com/@karrykate7561">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
       
