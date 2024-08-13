@@ -17,6 +17,7 @@ Htoo Htet Min</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </a>
 <br>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Myanmar Payment Solution Services</a>
 
@@ -56,8 +57,10 @@ Htoo Htet Min</a></h1>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-<br>
-### <picture align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+      
+<p align="center">
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ </p>
  
 <p align="center">
   &emsp;
@@ -71,12 +74,9 @@ Htoo Htet Min</a></h1>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
-
 <br> 
-
 </p>
-<br><br><br> 
-
+<br>
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
