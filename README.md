@@ -19,9 +19,9 @@ Htoo Htet Min</a></h1>
 <br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Myanmar Payment Solution Services</a>
+- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://www.infonttdatamyanmar.com.mm/)" target="blank">NTTDATA Myanmar</a>
 
-- 🌱 I’m currently Working on System Admin
+- 🌱 I’m currently Working on System Engineer 
 
 - 🤝 I’m available for freelancing.
 
