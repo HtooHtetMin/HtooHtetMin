@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://htoohtetmin.github.io/" target="blank">
 Htoo Htet Min</a></h1>
 <h3 align="center">A Cloud Engineer &#x1f1f2;&#x1f1f2</h3>
 
@@ -19,7 +19,7 @@ Htoo Htet Min</a></h1>
 <br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://www.infonttdatamyanmar.com.mm/)" target="blank">NTTDATA Myanmar</a>
+- 🔭 I’m currently working in <a href="https://www.infonttdatamyanmar.com.mm/" target="blank">NTTDATA Myanmar</a>
 
 - 🌱 I’m currently Working on System Engineer 
 
